@@ -9,3 +9,4 @@ git log --oneline
 git log --oneline --pretty
 git config --global user.name"Majidkhan"
 git config --global user.email"mkhan@mail.com"
+git checkout -b dev
